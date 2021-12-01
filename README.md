@@ -1,5 +1,6 @@
 # Web_Design_Challenge
 ## Latitude - Latitude Analysis Dashboard with Attitude
+-- All files can be found in Start Files folder --
 For this challenge, I created a visualization dashboard website using visualizations I've created in a past challenge. Specifically, I plotted weather data.
 
 In building this dashboard, I created individual pages for each plot and a means by which I can navigate between them. These pages will contain the visualizations and their corresponding explanations. I also have a landing page, a page where I can see a comparison of all of the plots, and another page where I can view the data used to build them.
